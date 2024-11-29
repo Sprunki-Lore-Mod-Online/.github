@@ -17,11 +17,11 @@ Ready to embark on a hauntingly beautiful musical adventure? Let’s dive in!
 ## Game Features of Sprunki Lore Mod
 
 - **Narrative Depth**: Sprunki Lore Mod delves into the intricate backstories of characters, revealing a darker side to the Sprunki universe. Players can uncover hidden secrets and unsettling truths as they progress through the game.
-- 
+  
 - **Horror Elements**: A distinctive feature of the mod is its horror mode, which transforms the gameplay into a psychological experience. Players can switch to this mode to reveal twisted fates of beloved characters and explore eerie atmospheres filled with unsettling visuals and sounds.
-- 
+  
 - **Character Interaction**: Each character in Sprunki Lore contributes unique audio effects, allowing players to create personalized soundscapes. The interactions are designed to enhance the storytelling aspect, making every musical arrangement meaningful.
-- 
+  
 - **Visual Storytelling**: Engaging animations and character designs bring the narrative to life, providing a captivating visual experience that complements the audio elements.
 
 ## How to Play Sprunki Lore Mod?
@@ -35,7 +35,7 @@ Ready to embark on a hauntingly beautiful musical adventure? Let’s dive in!
 ## Unique Aspects of Sprunki Lore Mod
 
 - **Psychological Exploration**: The mod emphasizes psychological themes, encouraging players to question reality versus illusion through Gray's journey—a central character who navigates a surreal world filled with mystery.
-- 
+  
 - **Community-driven Lore**: Much of the Sprunki Lore Mod is rooted in community theories, creating a space where players can speculate and share interpretations of character motivations and story elements.
 
 ## Ready to Start Playing Sprunki Lore Mod?
