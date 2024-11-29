@@ -1,7 +1,5 @@
 # Sprunki Lore Mod - Play Incredibox Sprunki Game Online
 
-## Overview of Sprunki Lore Mod
-
 Sprunki Lore Mod is an innovative fan-made modification of the popular music creation game Incredibox, offering players a unique blend of immersive storytelling and musical creativity. This mod invites players to explore the rich mythology and dark narrative of the Sprunki universe while engaging in the signature music-mixing gameplay that fans have come to love.
 
 ## Play Sprunki Lore Mod Now
