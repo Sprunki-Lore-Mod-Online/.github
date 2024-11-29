@@ -8,7 +8,7 @@ Ready to embark on a hauntingly beautiful musical adventure? Let’s dive in!
 
 ### [Sprunki Lore Mod](https://sprunkisinner.org/sprunki-lore-mod)
 
-### [Sprunki Kissing Mod (Kissing Love)](https://sprunkisinner.org/sprunki-kissing-mod)
+### [Sprunki Kissing Mod](https://sprunkisinner.org/sprunki-kissing-mod)
 
 ### [Sprunki Lairity](https://sprunkisinner.org/sprunki-lairity)
 
